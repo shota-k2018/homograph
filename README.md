@@ -11,7 +11,7 @@ go get github.com/shota-k2018/homograph
 package main
 
 import (
-	"github.com/shota-k2018/homograph/homograph"
+	"github.com/shota-k2018/homograph"
 	"log"
 )
 
